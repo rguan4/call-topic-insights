@@ -1,0 +1,27 @@
+:root {
+  --violet: #4a32b8;
+  --violet-dark: #3a2696;
+  --violet-tint: #eeebfa;
+  --violet-hover: #f4f2fb;
+  --night: #1e1640;
+  --night-2: #2e2560;
+  --hill: #8f86c9;
+  --dawn: #e9a86b;
+  --dawn-tint: #fcefe2;
+  --dawn-text: #8a4a16;
+  --dawn-deep: #6e3a10;
+  --dawn-border: #e3b98f;
+  --paper: #fafaf8;
+  --white: #ffffff;
+  --ink: #1e1640;
+  --muted: #5b5675;
+  --line: #e6e3ef;
+  --line-soft: #efedf7;
+  --field: #d9d4f0;
+  --nav-text: #d6d2ec;
+  --nav-muted: #a9a3cf;
+  --radius-card: 20px;
+  --radius-kpi: 18px;
+  --font-sans: 'DM Sans', system-ui, sans-serif;
+  --font-serif: 'Newsreader', Georgia, serif;
+}
